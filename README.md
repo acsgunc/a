@@ -40,9 +40,9 @@ npx nx generate @nx/nest:application backend
 5️⃣ Serve the Applications
 Open two terminals and run:
 
-nx serve frontend  # Starts the Angular app
+npx nx serve frontend  # Starts the Angular app
 
-nx serve backend  # Starts the NestJS backend
+npx nx serve backend  # Starts the NestJS backend
 
 
 
