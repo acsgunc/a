@@ -24,6 +24,8 @@ npm install
 Generate an Angular App
 Inside your Nx workspace, run:
 
+npm install @nx/angular --save-dev
+
 npx nx generate @nx/angular:application frontend
 
 
