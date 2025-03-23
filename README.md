@@ -32,6 +32,8 @@ npx nx generate @nx/angular:application frontend
 4️⃣ Generate a NestJS App
 Inside the same workspace, run:
 
+npm install @nx/nest --save-dev
+
 npx nx generate @nx/nest:application backend
 
 
